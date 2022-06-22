@@ -1,4 +1,4 @@
-package com.cfrdocarmo.cfrdocarmofood.auth;
+package com.cfrdocarmo.cfrdocarmofood.auth.core;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
